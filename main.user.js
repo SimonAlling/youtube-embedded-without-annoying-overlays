@@ -5,6 +5,7 @@
 // @author       Simon Alling
 // @match        *://*.youtube.com/*
 // @description  Hides "More videos" etc in embedded YouTube videos.
+// @downloadURL  https://github.com/SimonAlling/youtube-embedded-without-annoying-overlays/raw/master/main.user.js
 // @run-at       document-start
 // ==/UserScript==
 
